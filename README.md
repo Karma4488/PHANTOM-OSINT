@@ -1,6 +1,6 @@
 # PHANTOM-OSINT from kArmasec 🦝
 kArmas_PHANTOM OSINT 🎩
-a all around osint tool in python 🚀
+all around osint tool in python 🚀
 
 how to run 👇
 pip install requests beautifulsoup4  

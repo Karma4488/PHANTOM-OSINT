@@ -3,7 +3,7 @@ kArmas_PHANTOM OSINT 🎩
 all around osint tool in python 🚀
 domain/ip/email/username 👽
 
-how to run 👇
+how to run:
 pip install requests beautifulsoup4  
 python3 osint_tool.py
 

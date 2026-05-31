@@ -2,7 +2,7 @@
 kArmas_PHANTOM OSINT 🎩
 a all around osint tool in python 🚀
 
-pip install requests beautifulsoup4   # optional but recommended
+pip install requests beautifulsoup4  
 python3 osint_tool.py
 
 made in l0v3 bY kArmasec
